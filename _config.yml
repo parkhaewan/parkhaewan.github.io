@@ -26,7 +26,7 @@
 
 title: 해완's Laboratory
 email: phw9186@gmail.com
-author: Haewan Park
+author: Haewan
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -154,11 +154,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+defaults:
+  home:
+    heading: "Haewan's 연구소"
+    subheading: "big data, machine learning, AI"
+    banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
